@@ -1,0 +1,27 @@
+body{
+  background-color:cornflowerblue ;
+  color: white;
+  background-color: black;
+}
+.meme-picture{
+  border: 5px solid white;
+  width: 100%;
+}
+.main-container{
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 5em;
+}
+h1{
+  font-size: 3rem;
+  font-family: 'Rubik Maps', system-ui;
+  text-align: center;
+  text-transform: uppercase;
+}
+p{
+  text-align: center;
+  font-family: 'Rubik Maps', system-ui;
+  font-size: 1rem;
+  text-transform: uppercase;
+  
+}
